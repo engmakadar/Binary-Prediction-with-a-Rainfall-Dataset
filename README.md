@@ -42,5 +42,5 @@ Confusion matrix to visualize correct vs. incorrect predictions
 ![image](https://github.com/engmakadar/Binary-Prediction-with-a-Rainfall-Dataset/blob/a4112d44d76a4bb4bd80041d5f431da957a806f5/ROC%20Curve.png)
 
 
-![image](
+![image](https://github.com/engmakadar/Binary-Prediction-with-a-Rainfall-Dataset/blob/72dadaf422fe33cbc1dbc4af0f9532ee214005bf/ROC%20Curve%20-%20ensemble%20model.png)
 
