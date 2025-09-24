@@ -37,5 +37,10 @@ Hyperparameter tuning using GridSearchCV for optimal performance
 Performance metrics: Accuracy, Precision, Recall, F1-score
 Confusion matrix to visualize correct vs. incorrect predictions
 
+![image](https://github.com/engmakadar/Binary-Prediction-with-a-Rainfall-Dataset/blob/837a34be8df4b88a2791150a8f07d1a781a41ac4/Confusion%20Matrix.png)
+
 ![image](https://github.com/engmakadar/Binary-Prediction-with-a-Rainfall-Dataset/blob/a4112d44d76a4bb4bd80041d5f431da957a806f5/ROC%20Curve.png)
+
+
+![image](
 
