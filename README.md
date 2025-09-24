@@ -5,8 +5,8 @@ This project focuses on predicting whether it will rain on a given day using mac
 
 ## Features
 The model uses weather-related features such as:
-![Day](Day): Day of the month
-![Pre](Pressure): Atmospheric pressure
+Day: Day of the month
+Pressure: Atmospheric pressure
 Max Temperature: Maximum daily temperature
 Humidity: Humidity percentage
 Wind Speed: Average wind speed
